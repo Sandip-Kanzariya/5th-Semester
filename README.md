@@ -26,3 +26,26 @@ cd DEBUG125
 debug
 ```
 
+> TASM : asm file assembler
+
+![image](https://github.com/Sandip-Kanzariya/5th-Semester/assets/105594748/fd5969be-fff2-4581-8848-943f69a1aed1)
+
+```
+cd tasm
+```
+>show content of file : 
+```
+type file.extention
+```
+
+>Assembly to Binary (Machine) Code (file.asm -> file.obj): 
+```
+tasm file.asm
+```
+
+>Binary (Machine) Code to file.exe & file.map(file.asm -> file.obj): 
+```
+tlink file.obj
+```
+
+
