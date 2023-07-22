@@ -1,0 +1,8 @@
+>fork()
+
+>wait()
+
+>getpid()
+
+>getppid()
+
