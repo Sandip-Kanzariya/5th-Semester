@@ -9,5 +9,5 @@ Implementation of Advanced Algorithms in C++
 | |Find Kth Smallest element in O(n)| |
 | [Lab-02](https://github.com/Sandip-Kanzariya/Advanced-Algorithms/tree/advalgo/Labs/Lab02) | Primality Testing (Fermate's Theorem) | |
 | | Find Probability of F-liars| |
-| Lab-03| Ford-Fulkerson Algorithm | |
+| [Lab-03](https://github.com/Sandip-Kanzariya/Advanced-Algorithms/tree/advalgo/Labs/Lab03)| Ford-Fulkerson Algorithm | |
 | Lab-04| Karger's Min-Cut Algorithm | |
