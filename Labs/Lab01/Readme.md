@@ -46,5 +46,13 @@ void quickSort(vector <int> &v, int l, int h){
     return;
 }
 ```
+
+>### Output : 
+For n = 10000
+|Run|Output|
+|---|---|
+|1.|![Alt text](image.png) |
+|2.|![Alt text](image-1.png)|
+
 |Simple Quick Sort|Randomized Quick Sort|
 |---|---|
