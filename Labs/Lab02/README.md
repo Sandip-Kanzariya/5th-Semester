@@ -85,3 +85,19 @@ bool isPrime(USLLI n)
     return true;
 }
 ```
+>Output 
+
+|Input|Output|
+|---|---|
+|n = 1000000007 |![Alt text](images/image-0.png)|
+|n = 1000000008 |![Alt text](images/image-1.png)|
+
+# Probability Of Liars
+
+
+>Output 
+
+|Input|Output|
+|---|---|
+|n = 15|![Alt text](images/image-2.png)|
+|n = 34|![Alt text](images/image-3.png)|

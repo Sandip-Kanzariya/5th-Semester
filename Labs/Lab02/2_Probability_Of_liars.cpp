@@ -41,10 +41,10 @@ int main()
         }
     }
     
-    cout << "Liars : " << count << "\n";
-    cout << "Witness : " << n - 3 - count << "\n";
+    cout << "Fermate's Liars : " << count << "\n";
+    cout << "Fermate's Witnesses : " << n - 3 - count << "\n";
 
-    cout << "Probability of Liars: " << (double)count / (n - 3);
+    cout << "Probability of Fermate's Liars: " << (double)count / (n - 3);
 
     return 0;
 }
