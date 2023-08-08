@@ -51,8 +51,8 @@ void quickSort(vector <int> &v, int l, int h){
 For n = 10000
 |Run|Output|
 |---|---|
-|1.|![Alt text](image.png) |
-|2.|![Alt text](image-1.png)|
+|1.|![Alt text](images/image-0.png) |
+|2.|![Alt text](images/image-1.png)|
 
 |Simple Quick Sort|Randomized Quick Sort|
 |---|---|
