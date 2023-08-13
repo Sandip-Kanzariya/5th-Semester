@@ -11,6 +11,6 @@ Implementation of Advanced Algorithms in C++
 | | Find Probability of F-liars| |
 | [Lab-03](https://github.com/Sandip-Kanzariya/Advanced-Algorithms/tree/advalgo/Labs/Lab03)| Ford-Fulkerson Algorithm | |
 | [Lab-04](https://github.com/Sandip-Kanzariya/Advanced-Algorithms/tree/advalgo/Labs/Lab04)| Karger's Min-Cut Algorithm | |
-| [Lab-05]((https://github.com/Sandip-Kanzariya/Advanced-Algorithms/tree/advalgo/Labs/Lab05))| String Matching Algorithms : | | 
+| [Lab-05](https://github.com/Sandip-Kanzariya/Advanced-Algorithms/tree/advalgo/Labs/Lab05)| String Matching Algorithms : | | 
 | | Naive String Matching | |
 | | Horsepools String Matching | |
