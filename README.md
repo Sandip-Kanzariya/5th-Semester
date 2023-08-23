@@ -11,6 +11,6 @@
 |[Lab-05](https://github.com/Sandip-Kanzariya/5th-Semester/tree/os/Labs/Lab05)|Thread Creation & Termination|Lock & Unlock on Threads |
 |[Lab-06](https://github.com/Sandip-Kanzariya/5th-Semester/tree/os/Labs/Lab06)|Inter-process Communication using Pipe|Create pipe|
 | | Child to Parent | Parent to Child|
-| |parent process to child process and | the child process should display file contents|
-|Bidirectional Pipe| parent process to child process and | the child process should write file contents in another pipe|
+| |parent process to child process and the child process should display file contents|
+|Bidirectional Pipe| parent process to child process and the child process should write file contents in another pipe|
 
