@@ -4,8 +4,16 @@ using namespace std;
 int comp = 0;
 
 /*
-Time : O((n - m + 1) * m)
+
+Average Time : O((n - m + 1) * m)
+// T = JIM_SAW_ME_IN_A_BOOK_SHOP | P = SHOP
+// T = JIMY_HAILED_THE_LEADER_TO_STOP | P = LEADER
+--------------------------------------------------------------
+Worst Time : O(n * m)
+Comparision : (n - m + 1) * m 
+// T = AAAAAAAAAA | P = AA
 */
+
 bool check(string p, string s)
 {
 
@@ -24,9 +32,7 @@ bool check(string p, string s)
 int main()
 {
 
-    // T = JIM_SAW_ME_IN_A_BOOK_SHOP | P = SHOP
-    // T = JIMY_HAILED_THE_LEADER_TO_STOP | P = LEADER
-    // T = AAAAAAAAAA | P = AA
+    
     string text, pattern;
     cout << "Enter Text : ";
     cin >> text;
