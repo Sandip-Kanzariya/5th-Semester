@@ -17,7 +17,7 @@ int main()
         printf("%d ", parent);
 
         printf("Child Id : ");
-        printf("%d\n", pid);
+        printf("%d\n", pid);`
         wait(0);
     }
     else if (pid == 0) // Child

@@ -1,0 +1,9 @@
+total 44
+-rw-rw-r-- 1 user1 user1   249 Aug 24 10:51 0_filed_dup.c
+-rw-rw-r-- 1 user1 user1   423 Aug 24 11:09 1_print.c
+-rw-rw-r-- 1 user1 user1   308 Aug 24 11:28 2_ls_execl.c
+-rw-rw-r-- 1 user1 user1   382 Aug 24 11:31 3_parent_child.c
+-rw-rw-r-- 1 user1 user1   569 Aug 24 11:45 4_ls_pipe_sort.c
+-rwxrwxr-x 1 user1 user1 16312 Aug 24 11:46 a.out
+-rw-rw-r-- 1 user1 user1   456 Aug 24 11:36 sort.txt
+-rw-rw-r-- 1 user1 user1    64 Aug 24 11:05 Text.txt
